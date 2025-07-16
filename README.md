@@ -1,7 +1,7 @@
 # Olá, eu sou Pedro Gonçalves 👋
 
 🔹 **Estagiário de Automação de Processos no BNDES | Estudante de TI | Entusiasta de Programação e Tecnologia**  
-🔹 **Buscando minha primeira experiência profissional completa na área de TI, com foco em automação de processos, programação e aprendizado contínuo.**
+🔹 **Buscando experiência profissional completa na área de TI, com foco em dados e automação de processos.**
 
 ---
 
